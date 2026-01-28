@@ -2,26 +2,26 @@
 
 ## 📖 Project Overview
 This project is a responsive portfolio website built from the provided Figma design.  
-The goal was to convert the UI into clean, accessible, and high-performance frontend code using modern best practices.
+The objective was to convert the UI into clean, accessible, and high-performance frontend code following modern best practices.
 
 ## 🛠 Tech Stack
 - HTML5
 - Tailwind CSS
 
 ## ✨ Features
-- Fully responsive layout (mobile, tablet, desktop)
-- Pixel-close implementation from Figma design
+- Fully responsive design (mobile, tablet, desktop)
+- Pixel-close implementation from Figma
 - SEO optimized semantic HTML
-- Accessible structure with proper alt texts and headings
-- High performance and fast loading
+- Accessible structure with proper alt attributes
+- Fast loading and high performance
 
 ## 🚀 Live Site
-https://your-live-site-url-here
+https://aquamarine-gaufre-ddc90d.netlify.app/
 
 ## 📂 Run Locally
-Open the `index.html` file in any modern browser.
+Open the `index.html` file in any modern web browser.
 
 ## 📌 Notes
-- No templates or copied repositories were used
-- Code written manually following best practices
+- No external templates or copied repositories were used
+- Code written manually with best practices
 - Focused on responsiveness, performance, and clean structure
